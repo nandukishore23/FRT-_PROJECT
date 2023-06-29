@@ -68,17 +68,16 @@ This bot helps you to find the answers of your questions regarding the site and 
 
 ![Screenshot (16)](https://github.com/nandukishore23/FRT-_PROJECT/assets/109900154/ac2a9dfc-efef-469b-b7e7-4f971c6de298)
 ____
-# TEAM MEMBERS:
-### P.NANDU KISHORE (https://github.com/nandukishore23)
-### K.AVINASH(https://github.com/20A31A0546)
-### PAVANDAMMALA(https://github.com/Pavandammala7)
-____
 # TECH STACK
 - [azure hosting](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
 - Bootstrap
 - JavaScript
-   
+____
+# TEAM MEMBERS:
+### P.NANDU KISHORE (https://github.com/nandukishore23)
+### K.AVINASH(https://github.com/20A31A0546)
+### PAVANDAMMALA(https://github.com/Pavandammala7)   
 
 
