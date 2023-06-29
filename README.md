@@ -67,5 +67,11 @@ ____
 ### PAVANDAMMALA(https://github.com/Pavandammala7)
 ____
 # TECH STACK
+- [azure hosting](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+   
 
 
