@@ -69,7 +69,7 @@ This bot helps you to find the answers of your questions regarding the site and 
 ____
 # TEAM MEMBERS:
 ### P.NANDU KISHORE (https://github.com/nandukishore23)
-### K.AVINASH(
+### K.AVINASH(https://github.com/20A31A0546)
 ### PAVANDAMMALA(https://github.com/Pavandammala7)
 ____
 # TECH STACK
