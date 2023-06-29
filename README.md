@@ -1,15 +1,16 @@
 # AIRY_PETS
 Welcome to Airy Pets, an online platform dedicated to helping you find your perfect furry friend. Whether you're looking to adopt a dog, cat, bird, or any other adorable creature, Airy Pets is here to assist you in your search. This README file provides an overview of the website's features and usage instructions.
-
+***
 #### Project Link(Github Repository URL) - https://github.com/nandukishore23/FRT-_PROJECT
 #### Project Demo URL - https://ashy-grass-0839fc810.3.azurestaticapps.net
 #### Project Demo Video Link -
-
+***
 # Table of Contents
 Introduction
 Features
 Getting Started
 Usage
+***
 ## Introduction
 Airy Pets is a user-friendly website designed to connect prospective pet owners with animals available for adoption. Our platform aims to facilitate the adoption process, making it convenient and enjoyable for both users and pets.
 
@@ -59,6 +60,12 @@ Create a personal account on Airy Pets to save your favorite pet listings, track
 ![Screenshot (12)](https://github.com/nandukishore23/FRT-_PROJECT/assets/109900154/f36633aa-cacf-4ab8-b61d-4bc0d3d19a41)
 
 ![Screenshot (16)](https://github.com/nandukishore23/FRT-_PROJECT/assets/109900154/ac2a9dfc-efef-469b-b7e7-4f971c6de298)
-
+____
 # TEAM MEMBERS:
-### P NANDU KISHORE (https://github.com/nandukishore23)
+### P.NANDU KISHORE (https://github.com/nandukishore23)
+### K.AVINASH(
+### PAVANDAMMALA(https://github.com/Pavandammala7)
+____
+# TECH STACK
+
+
