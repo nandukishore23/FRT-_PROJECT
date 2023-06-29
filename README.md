@@ -51,6 +51,8 @@ When you find a pet you're interested in, click the "Adopt" button on their prof
 
 ### Managing Your Account: 
 Create a personal account on Airy Pets to save your favorite pet listings, track your adoption applications, and receive updates on their progress. Use the account dashboard to manage your profile and preferences.
+### SERVICE BOT:
+This bot helps you to find the answers of your questions regarding the site and the pet adoption in an user friendly manner.
 ## SCREENSHOTS:
 
 ![Screenshot (17)](https://github.com/nandukishore23/FRT-_PROJECT/assets/109900154/f95e9802-9e00-47ec-a92d-8ad020c3f23c)
