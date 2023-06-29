@@ -1,4 +1,4 @@
-# AIRY_PETS
+# [AIRY_PETS](https://ashy-grass-0839fc810.3.azurestaticapps.net)
 Welcome to Airy Pets, an online platform dedicated to helping you find your perfect furry friend. Whether you're looking to adopt a dog, cat, bird, or any other adorable creature, Airy Pets is here to assist you in your search. This README file provides an overview of the website's features and usage instructions.
 ***
 #### Project Link(Github Repository URL) - https://github.com/nandukishore23/FRT-_PROJECT
@@ -14,12 +14,15 @@ Usage
 ## Introduction
 Airy Pets is a user-friendly website designed to connect prospective pet owners with animals available for adoption. Our platform aims to facilitate the adoption process, making it convenient and enjoyable for both users and pets.
 
-## Features
-### Pet Listings:
-Browse through a wide variety of pets available for adoption, including dogs, cats, birds, and more. Each pet listing provides details such as age, breed, size, and a description of their personality.
+## OUR SERVICES
+### PET HEALTH:
+These services are typically offered by veterinarians and veterinary clinics, aiming to prevent, diagnose, treat, and manage various health conditions and diseases that may affect pets.
 
-### Search and Filters:
-Utilize the search functionality and apply filters to refine your search results based on specific criteria, including species, breed, age, size, and location.
+### PET GROOMING:
+Pet grooming services involve the professional care and maintenance of pets' appearance and hygiene. These services are typically provided by trained groomers who specialize in various grooming techniques for different types of animals.
+
+### PET SITTING:
+Pet sitting is a service that provides care and companionship for pets when their owners are away. It involves a qualified and responsible individual, often referred to as a pet sitter.
 
 ### Adoption Applications:
 Submit adoption applications directly through the website. Fill out an application form with your personal information, preferences, and any additional details you'd like to provide.
@@ -39,7 +42,8 @@ To get started with Airy Pets, you need a computer or mobile device with an inte
 ### Browsing Pets:
 On the Airy Pets homepage, you can start browsing pets available for adoption immediately. Use the search bar or the provided filters to narrow down your search based on your preferences.
 
-### Viewing Pet Profiles:
+### GALLERY
+##### Viewing Pet Profiles:
 Click on a pet's listing to access their detailed profile. Here, you can view their photos, read their description, and learn about their characteristics, medical history, and any other relevant information.
 
 ### Submitting an Adoption Application:
